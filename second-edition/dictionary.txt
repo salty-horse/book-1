@@ -88,6 +88,7 @@ dereferenced
 dereferences
 dereferencing
 DerefMut
+DeriveInput
 destructor
 destructure
 destructured
@@ -119,6 +120,7 @@ eprintln
 Erlang
 ErrorKind
 Executables
+expr
 extern
 favicon
 FFFD
@@ -135,6 +137,7 @@ FnBox
 FnMut
 FnOnce
 formatter
+FrenchToast
 FromIterator
 frontend
 getter
@@ -155,12 +158,14 @@ HashSet
 Haskell
 hasn
 helloworld
+HelloWorld
 Hmmm
 Hoare
 Hola
 homogenous
 html
 Iceburgh
+ident
 IEEE
 impl
 implementor
@@ -326,6 +331,7 @@ SecondaryColor
 SelectBox
 semver
 SemVer
+serde
 shouldn
 Simula
 situps
@@ -346,6 +352,7 @@ Stdin
 stdlib
 stdout
 steveklabnik's
+stringify
 Stroustrup
 struct
 Struct
@@ -369,6 +376,7 @@ supertrait
 supertraits
 TcpListener
 TcpStream
+templating
 test's
 TextField
 That'd
@@ -379,6 +387,7 @@ timestamp
 Tiếng
 timeline
 TODO
+TokenStream
 toml
 TOML
 ToString
