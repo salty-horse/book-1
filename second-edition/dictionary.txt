@@ -387,6 +387,7 @@ threadsafe
 timestamp
 Tiếng
 timeline
+tlborm
 TODO
 TokenStream
 toml
@@ -400,6 +401,7 @@ tuesday
 tuple
 tuples
 typeof
+TypeName
 UFCS
 unary
 Unary
